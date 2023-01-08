@@ -1,0 +1,21 @@
+/*!
+ * FTP Web Template
+ * Copyright 2023 Ricardo do Canto
+ * Licensed under MIT (https://github.com/federacao-triatlo/ftp-web-template/blob/master/LICENSE)
+ *
+ * This files contains the customization of some variables on the file @bulma/sass/utilities/derived-variables
+ */
+
+@charset "utf-8";
+
+// Main colors
+$primary: #00753e;
+$secondary: #a01d20;
+
+$info: #1c50b1;
+$success: #00991d;
+$warning: #f1c100;
+$danger: #ed0044;
+
+// Link colors
+$link: $secondary;

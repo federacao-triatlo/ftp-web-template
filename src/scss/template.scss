@@ -24,7 +24,6 @@
 @import 'bulma/sass/elements/container';
 @import './elements/content-ftp';
 @import 'bulma/sass/elements/table';
-@import 'bulma/sass/elements/title';
 
 /* Helpers */
 @import 'bulma/sass/helpers/color';
@@ -40,3 +39,6 @@
 /* Layout */
 @import 'bulma/sass/layout/hero';
 @import 'bulma/sass/layout/section';
+
+/* Rex Labs Triathlon App */
+@import './rl-triathon-app/rl-triathon-app';
